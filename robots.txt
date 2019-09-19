@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iekeghood.cross-platform-blog.de/sitemap.xml
